@@ -42,6 +42,5 @@
 <a href="https://www.twitter.com/EshanTrivedi21/" target="_blank"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/eshan.trivedii/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://telegram.me/EshanTrivedi21" target="_blank"><img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://github.com/EshanTrivedi21" target="_blank"><img src="https://img.shields.io/badge/Github-D14836?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="993078095089258576" target="_blank"><img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
