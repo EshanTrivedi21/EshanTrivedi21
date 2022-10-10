@@ -32,10 +32,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=EshanTrivedi21&theme=react" width = "48.5%">
 </p>
 
----
+<!-- ---
 # Holopin Dashboard
 
-[![@EshanTrivedi21's Holopin board](https://holopin.io/api/user/board?user=EshanTrivedi21)](https://holopin.io/@EshanTrivedi21)
+[![@EshanTrivedi21's Holopin board](https://holopin.io/api/user/board?user=eshantrivedi21)](https://holopin.io/@eshantrivedi21) -->
 
 ---
 # Connect with me
