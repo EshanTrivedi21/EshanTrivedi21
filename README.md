@@ -35,7 +35,7 @@
 ---
 # Holopin Dashboard
 
-![@EshanTrivedi21's Holopin board](https://holopin.io/api/user/board?user=EshanTrivedi21)](https://holopin.io/@EshanTrivedi21)
+[![@EshanTrivedi21's Holopin board](https://holopin.io/api/user/board?user=EshanTrivedi21)](https://holopin.io/@EshanTrivedi21)
 
 ---
 # Connect with me
