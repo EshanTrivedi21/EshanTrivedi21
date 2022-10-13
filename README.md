@@ -16,6 +16,12 @@
 
 ---
 
+<h2 align="center"><b>Visitor's Count</b></h2>
+
+<p align="center"><img src="https://profile-counter.glitch.me/EshanTrivedi21/count.svg"/></p>
+
+---
+
 # Technologies I Worked With
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,bash,git,github,html,css,scss,bootstrap,tailwind,javascript,typescript,heroku)
