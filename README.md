@@ -4,15 +4,15 @@
 
 # Hello Guys, Eshan here!
 
-+ #### Currently a B-Tech Student at K J Somaiya College of Engineering.
++ ### Currently a B-Tech Student at K J Somaiya College of Engineering.
 
-+ #### I am an experienced Front-End Developer and aim to become a Full-Stack Developer soon! 
++ ### I am an experienced Front-End Developer and aim to become a Full-Stack Developer soon! 
 
-+ #### I am currently a Technical Team Member at CSI-KJSCE Student's Chapter.
++ ### I am currently a Technical Team Member at CSI-KJSCE Student's Chapter.
 
-+ #### I was previously a Technical Research & Development Team Member in the Mega-Project Team KJSCE Robocon.
++ ### I was previously a Technical Research & Development Team Member in the Mega-Project Team KJSCE Robocon.
 
-+ #### I am also a National & State Level Gold Medalist in Karate.
++ ### I am also a National & State Level Gold Medalist in Karate.
 
 ---
 
