@@ -16,6 +16,13 @@
 
 ---
 
+# Try this once, To experience something Cool!
+
+```bash
+npx eshan-trivedi
+```
+---
+
 # Technologies I Worked With
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,bash,git,github,html,css,scss,bootstrap,tailwind,javascript,typescript,heroku)
