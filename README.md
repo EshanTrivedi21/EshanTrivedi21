@@ -21,6 +21,7 @@
 ```bash
 npx eshan-trivedi
 ```
+
 ---
 
 # Technologies I Worked With
