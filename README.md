@@ -10,7 +10,7 @@
 
 + ### I am currently a Technical Team Member at CSI-KJSCE Student's Chapter.
 
-+ ### I was previously a Technical Research & Development Team Member in the Mega-Project Team KJSCE Robocon.
++ ### I was previously a Technical Research & Development Team in the Mega-Project Team KJSCE Robocon.
 
 + ### I am also a National & State Level Gold Medalist in Karate.
 
