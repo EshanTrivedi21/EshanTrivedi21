@@ -18,7 +18,7 @@
 
 # Try this once, To experience something Cool!
 
-```bash
+```
 npx eshan-trivedi
 ```
 
