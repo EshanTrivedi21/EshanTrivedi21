@@ -16,7 +16,8 @@
 
 ---
 
-# Try this once, To experience something Cool!
+# Try this on Terminal/Bash ans experience something Cool!
+
 
 ```
 npx eshan-trivedi
