@@ -16,7 +16,7 @@
 
 ---
 
-# Try this on Terminal/Bash ans experience something Cool!
+# Try this on Terminal/Bash and experience something Cool!
 
 
 ```
