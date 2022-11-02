@@ -6,7 +6,9 @@
 
 + ### Currently a B-Tech Student at K J Somaiya College of Engineering.
 
-+ ### I am an experienced Front-End Developer and aim to become a Full-Stack Developer soon! 
++ ### I am an experienced Front-End Developer and aim to become a Full-Stack Developer soon.
+
++ ### I have an Interest in Mathematics and Competitive Programming as well! 
 
 + ### I am currently a Technical Team Member at CSI-KJSCE Student's Chapter.
 
@@ -16,10 +18,10 @@
 
 ---
 
-# Try this on Terminal/Bash and experience something Cool!
+# Try this on your Terminal to experience something Cool!
 
 
-```
+```bash
 npx eshan-trivedi
 ```
 
