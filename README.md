@@ -1,4 +1,4 @@
-![image](banner.png)
+![gif](banner.gif)
 
 ---
 
@@ -35,7 +35,7 @@ npx eshan-trivedi
 # Few Github Stats
 
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=EshanTrivedi21" width = "97.5%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=EshanTrivedi21&theme=react" width = "97.5%">
 </p>
 
 <p align="center">
