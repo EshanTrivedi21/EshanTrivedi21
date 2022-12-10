@@ -29,13 +29,13 @@ npx eshan-trivedi
 
 # Technologies I Worked With
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,bash,git,github,html,css,scss,bootstrap,tailwind,javascript,typescript,heroku)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,bash,git,github,gitlab,figma,html,css,scss,bootstrap,tailwind,javascript,typescript,react,netlify,heroku,vercel,stackoverflow)
 
 ---
 # Few Github Stats
 
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=EshanTrivedi21&theme=react" width = "97.45%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=EshanTrivedi21" width = "97.5%">
 </p>
 
 <p align="center">
