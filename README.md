@@ -34,8 +34,6 @@ npx eshan-trivedi
 ---
 # Few Github Stats
 
-## Github Visitor's Count:  <img src="https://profile-counter.glitch.me/EshanTrivedi21/count.svg" alt="visitor badge" style="padding-left: 50px; "/>
-
 <!-- 
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=EshanTrivedi21&theme=react" width = "97.5%">
