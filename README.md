@@ -34,9 +34,11 @@ npx eshan-trivedi
 ---
 # Few Github Stats
 
+<!-- 
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=EshanTrivedi21&theme=react" width = "97.5%">
-</p>
+</p> 
+-->
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=EshanTrivedi21&count_private=true&show_icons=true&&theme=react&include_all_commits=true" width = "48.5%">
