@@ -21,7 +21,7 @@
 # Try this on your Terminal to experience something Cool!
 
 
-```bash
+```
 npx eshan-trivedi
 ```
 
@@ -33,6 +33,8 @@ npx eshan-trivedi
 
 ---
 # Few Github Stats
+
+## Github Visitor's Count:  <img src="https://profile-counter.glitch.me/EshanTrivedi21/count.svg" alt="visitor badge" style="padding-left: 50px; "/>
 
 <!-- 
 <p align="center">
@@ -51,7 +53,7 @@ npx eshan-trivedi
 [![@eshantrivedi21's Holopin board](https://holopin.io/api/user/board?user=eshantrivedi21)](https://holopin.io/@eshantrivedi21)
 
 ---
-# Connect with me
+# Connect with me 
 
 <p>
 <a href="https://www.linkedin.com/in/eshantrivedi21/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -60,5 +62,5 @@ npx eshan-trivedi
 <a href="https://www.twitter.com/EshanTrivedi21/" target="_blank"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/eshan.trivedii/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://telegram.me/EshanTrivedi21" target="_blank"><img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="993078095089258576" target="_blank"><img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a target="_blank"><img src="https://komarev.com/ghpvc/?username=EshanTrivedi21&style=for-the-badge&color=red"></a>
 </p>
