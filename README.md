@@ -1,4 +1,4 @@
-![gif](banner.gif)
+![png](banner.png)
 
 ---
 
