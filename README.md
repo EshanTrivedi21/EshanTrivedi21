@@ -2,23 +2,65 @@
 
 ---
 
-# Hello Guys, Eshan Trivedi here
+## __Hello Guys, Eshan Trivedi here__
 
-+ ### Currently a B-Tech Student at K J Somaiya College of Engineering.
++ #### Currently a B-Tech Student at K J Somaiya College of Engineering.
 
-+ ### An experienced Front-End Developer with aspirations of becoming a Full-Stack Developer.
++ #### An experienced Front-End Developer with aspirations of becoming a Full-Stack Developer.
 
-+ ### Interested in Mathematics and Competitive Programming!
++ #### Interested in Mathematics and Competitive Programming!
 
-+ ### Currently the Technical Team at CSI-KJSCE Student's Chapter.
++ #### Currently the Technical Team at CSI-KJSCE Student's Chapter.
 
-+ ### Previously the Research & Development Team in the Mega-Project KJSCE Robocon.
++ #### Previously the Research & Development Team in the Mega-Project KJSCE Robocon.
 
-+ ### A National Level Gold Medalist in Karate.
++ #### A National Level Gold Medalist in Karate.
 
 ---
 
-# Try this on your Terminal to experience something Cool
+## A Fun Resume
+
+```js
+const resume = {
+    "name" : "Eshan Kalp Trivedi",
+    "description" : "Web and App Developer",
+    "education" : [
+        {
+            "university" : "K. J. Somaiya College of Engineering",
+            "course" : "Bachelors of Technology",
+            "subject" : "Electronics Engineering"
+        }
+    ],
+    "experience" : [
+        {
+            "company" : "Computer Society of India",
+            "designation" : "Technical Team",
+            "current" : true,
+        },
+        {
+            "company" : "Team KJSCE Robocon",
+            "designation" : "Research and Development Team",
+            "current" : false,
+        }
+    ],
+    "skills" : {
+        "technical" : {
+             "development" : ["html", "css", "scss", "sass", "javascript", "reactjs", "api's", "open-source"],
+             "languages" : ["javascript", "python", "c", "c++", "matlab"],
+             "robotics" : ["python", "opencv", "numpy", "matplotlib", "matlab", "simulink"],
+             "version-control" : ["git", "github", "gitlab"],
+        },
+        "soft-skills" : ["leadership", "communication", "strategy", "critical-thinking", "time-management", "teamwork"]
+    }
+};
+
+console.log(resume);
+
+```
+
+---
+
+## Try this on your Terminal to experience something Cool
 
 
 ```
@@ -27,12 +69,12 @@ npx eshan-trivedi
 
 ---
 
-# Technologies I Worked With
+## Technologies I Worked With
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,bash,git,github,gitlab,figma,html,css,scss,bootstrap,tailwind,javascript,typescript,react,netlify,heroku,vercel,stackoverflow)
 
 ---
-# Few Github Stats
+## Few Github Stats
 
 <!-- 
 <p align="center">
@@ -46,12 +88,12 @@ npx eshan-trivedi
 </p>
 
 ---
-# Holopin Dashboard
+## Holopin Dashboard
 
 [![@eshantrivedi21's Holopin board](https://holopin.io/api/user/board?user=eshantrivedi21)](https://holopin.io/@eshantrivedi21)
 
 ---
-# Connect with me 
+## Connect with me 
 
 <p>
 <a href="https://www.linkedin.com/in/eshantrivedi21/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
