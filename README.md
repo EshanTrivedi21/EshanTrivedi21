@@ -20,8 +20,8 @@
 
 ## A Fun Resume
 
-```js
-const resume = {
+```json
+{
     "name" : "Eshan Kalp Trivedi",
     "description" : "Web and App Developer",
     "education" : [
@@ -45,16 +45,14 @@ const resume = {
     ],
     "skills" : {
         "technical" : {
-             "development" : ["html", "css", "scss", "sass", "javascript", "reactjs", "api's", "open-source"],
+             "development" : ["html", "css", "scss", "sass", "javascript", "reactjs", "redux", "nextjs", "api's", "open-source"],
              "languages" : ["javascript", "python", "c", "c++", "matlab"],
              "robotics" : ["python", "opencv", "numpy", "matplotlib", "matlab", "simulink"],
              "version-control" : ["git", "github", "gitlab"],
         },
         "soft-skills" : ["leadership", "communication", "strategy", "critical-thinking", "time-management", "teamwork"]
     }
-};
-
-console.log(resume);
+}
 
 ```
 
@@ -63,7 +61,7 @@ console.log(resume);
 ## Try this on your Terminal to experience something Cool
 
 
-```
+```bash
 npx eshan-trivedi
 ```
 
@@ -71,7 +69,7 @@ npx eshan-trivedi
 
 ## Technologies I Worked With
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,bash,git,github,gitlab,figma,html,css,scss,bootstrap,tailwind,javascript,typescript,react,netlify,heroku,vercel,stackoverflow)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,bash,git,github,gitlab,figma,html,css,scss,bootstrap,tailwind,javascript,typescript,react,nextjs,netlify,heroku,vercel,stackoverflow)
 
 ---
 ## Few Github Stats
@@ -99,7 +97,6 @@ npx eshan-trivedi
 <a href="https://www.linkedin.com/in/eshantrivedi21/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href"mailto:eshan.trivedi.9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://wa.me/919920742199?text=Hi+Eshan" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://www.twitter.com/EshanTrivedi21/" target="_blank"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/eshan.trivedii/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://telegram.me/EshanTrivedi21" target="_blank"><img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a target="_blank"><img src="https://komarev.com/ghpvc/?username=EshanTrivedi21&style=for-the-badge&color=red"></a>
