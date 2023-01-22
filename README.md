@@ -45,7 +45,7 @@
     ],
     "skills" : {
         "technical" : {
-             "development" : ["html", "css", "scss", "sass", "javascript", "reactjs", "redux", "nextjs", "api's", "open-source"],
+             "development" : ["html", "css", "scss", "sass", "javascript", "reactjs", "nextjs", "api's", "open-source"],
              "languages" : ["javascript", "python", "c", "c++", "matlab"],
              "robotics" : ["python", "opencv", "numpy", "matplotlib", "matlab", "simulink"],
              "version-control" : ["git", "github", "gitlab"],
@@ -61,7 +61,7 @@
 ## Try this on your Terminal to experience something Cool
 
 
-```bash
+```
 npx eshan-trivedi
 ```
 
