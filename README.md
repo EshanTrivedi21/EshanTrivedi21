@@ -81,8 +81,8 @@ npx eshan-trivedi
 -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EshanTrivedi21&count_private=true&show_icons=true&&theme=react&include_all_commits=true" width = "48.5%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EshanTrivedi21&theme=react" width = "48.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=EshanTrivedi21&count_private=true&show_icons=true&&theme=react&include_all_commits=true" width = "47.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=EshanTrivedi21&theme=react" width = "50.5%">
 </p>
 
 ---
