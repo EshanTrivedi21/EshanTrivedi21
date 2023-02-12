@@ -45,7 +45,7 @@
     ],
     "skills" : {
         "technical" : {
-             "development" : ["html", "css", "scss", "sass", "javascript", "reactjs", "nextjs", "api's", "open-source"],
+             "development" : ["html", "css", "scss", "sass", "javascript", "reactjs", "nextjs", "api's", "firebase"],
              "languages" : ["javascript", "python", "c", "c++", "matlab"],
              "robotics" : ["python", "opencv", "numpy", "matplotlib", "matlab", "simulink"],
              "version-control" : ["git", "github", "gitlab"],
@@ -69,7 +69,7 @@ npx eshan-trivedi
 
 ## Technologies I Worked With
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,bash,git,github,gitlab,figma,html,css,scss,bootstrap,tailwind,javascript,typescript,react,nextjs,netlify,heroku,vercel,stackoverflow)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,bash,git,github,gitlab,figma,html,css,scss,bootstrap,tailwind,javascript,typescript,react,nextjs,firebase,netlify,heroku,vercel,stackoverflow)
 
 ---
 ## Few Github Stats
