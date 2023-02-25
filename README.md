@@ -6,13 +6,13 @@
 
 + #### Currently a B-Tech Student at K J Somaiya College of Engineering.
 
-+ #### An experienced Front-End Developer with aspirations of becoming a Full-Stack Developer.
-
-+ #### Interested in Mathematics and Competitive Programming!
++ #### An Full-Stack Developer with Expertise in Front-End Development.
 
 + #### Currently the Technical Team at CSI-KJSCE Student's Chapter.
 
 + #### Previously the Research & Development Team in the Mega-Project KJSCE Robocon.
+
++ #### Interested in Mathematics and Competitive Programming!
 
 + #### A National Level Gold Medalist in Karate.
 
