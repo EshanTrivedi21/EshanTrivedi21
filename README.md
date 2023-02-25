@@ -45,8 +45,8 @@
     ],
     "skills" : {
         "technical" : {
-             "development" : ["html", "css", "scss", "sass", "javascript", "reactjs", "nextjs", "api's", "firebase"],
-             "languages" : ["javascript", "python", "c", "c++", "matlab"],
+             "web-development" : ["html", "css", "scss", "sass", "javascript", "typescript", "reactjs", "nextjs", "firebase", "api's"],
+             "languages" : ["javascript", "typescript", "python", "c", "c++", "matlab"],
              "robotics" : ["python", "opencv", "numpy", "matplotlib", "matlab", "simulink"],
              "version-control" : ["git", "github", "gitlab"],
         },
