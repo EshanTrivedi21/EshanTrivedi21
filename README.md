@@ -58,6 +58,24 @@
 
 ---
 
+## Achievements
+
++ #### Spearheaded a team of 4, which stood Second, amongst 1000+ others, at DotSlash 6.0 (SVNIT Surat)
+
++ #### Spearheaded a team of 3, which stood Second, amongst 1300+ others, at Clash of Codes (DJSCE)
+
++ #### Spearheaded a team of 4, which stood Second, at Ideate Hackathon (UNL Global)
+
++ #### Git-Cheatsheet recognised as an Open-Source by Hacktoberfest which has 37 contributors worldwide.
+
++ #### Was a part of the team, which stood AIR-6, at ABU-Robocon (IIT-Dehli)
+
++ #### Hackerrank 5 Star in Cpp and Problem Solving, Codechef 2 Star Coder (Competetive Programming)
+
++ #### National and a State Level Gold Medalist and a Black Belt in Karate (GKSI, AIKF, Pune and Akola)
+
+---
+
 ## Try this on your Terminal to experience something Cool
 
 
