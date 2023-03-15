@@ -18,6 +18,8 @@
 
 ## A Fun Resume
 
+#### Check my Resume [here](https://drive.google.com/file/d/1g6T6cRp-NfjiBl7ymtJ-xcJ0k7V3dhVJ/view?usp=sharing) !
+
 ```json
 {
     "name" : "Eshan Kalp Trivedi",
