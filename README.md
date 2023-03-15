@@ -14,8 +14,6 @@
 
 + #### Interested in Mathematics and Competitive Programming!
 
-+ #### A National Level Gold Medalist in Karate.
-
 ---
 
 ## A Fun Resume
