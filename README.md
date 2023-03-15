@@ -47,8 +47,8 @@
         "technical" : {
              "web-development" : ["html", "css", "scss", "sass", "javascript", "typescript", "reactjs", "nextjs", "firebase", "api's"],
              "languages" : ["javascript", "typescript", "python", "c", "c++", "matlab"],
-             "robotics" : ["python", "opencv", "numpy", "matplotlib", "matlab", "simulink"],
-             "version-control" : ["git", "github", "gitlab"],
+             "robotics" : ["python", "opencv", "matplotlib", "matlab", "simulink", "simscape", "tensorflow"],
+             "tools" : ["git", "github", "gitlab", "figma"],
         },
         "soft-skills" : ["leadership", "communication", "strategy", "critical-thinking", "time-management", "teamwork"]
     }
