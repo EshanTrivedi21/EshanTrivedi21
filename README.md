@@ -6,7 +6,7 @@
 
 + #### Currently a B-Tech Student at K J Somaiya College of Engineering.
 
-+ #### An Full-Stack Developer with Expertise in Front-End Development.
++ #### A Full-Stack Developer with Expertise in Front-End Development.
 
 + #### Currently the Technical Team at CSI-KJSCE Student's Chapter.
 
