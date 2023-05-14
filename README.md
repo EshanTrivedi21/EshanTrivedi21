@@ -46,6 +46,7 @@
     "skills" : {
         "technical" : {
              "web-development" : ["html", "css", "scss", "sass", "javascript", "typescript", "reactjs", "nextjs", "firebase", "api's"],
+             "app-development" : ["react-native"],
              "languages" : ["javascript", "typescript", "python", "c", "c++", "matlab"],
              "robotics" : ["python", "opencv", "matplotlib", "matlab", "simulink", "simscape", "tensorflow"],
              "tools" : ["git", "github", "gitlab", "figma"],
